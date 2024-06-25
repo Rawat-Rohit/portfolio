@@ -770,7 +770,7 @@ export default function Home({ publications }) {
             {/* Featured Projects Container */}
             <div className="flex flex-col w-full mb-12">
               {/* Project One */}
-              <FeaturedProjectCard
+              {/* <FeaturedProjectCard
                 title={"Rainbow"}
                 status={"V0.1 Just Launched (Open Source)"}
                 description={`modern design and code editor`}
@@ -832,10 +832,10 @@ export default function Home({ publications }) {
                     />
                   </>
                 }
-              />
+              /> */}
 
               {/* Project Two */}
-              <FeaturedProjectCard
+              {/* <FeaturedProjectCard
                 title={"HTTP Status Insight"}
                 status={"Live (Open Source)"}
                 description={`Decoding HTTP with Status Code Insight`}
@@ -897,11 +897,11 @@ export default function Home({ publications }) {
                     />
                   </>
                 }
-              />
+              /> */}
 
 
               {/* Project Three */}
-              <FeaturedProjectCard
+              {/* <FeaturedProjectCard
                 title={"weareunder.design"}
                 status={"Live"}
                 description={`
@@ -952,9 +952,9 @@ export default function Home({ publications }) {
 
                   </div>
                 }
-              />
+              /> */}
               {/* Project Four */}
-              <FeaturedProjectCard
+              {/* <FeaturedProjectCard
                 title={"Tealbox.digital"}
                 status={"Live"}
                 description={`The Analytics & Performance Marketing Agency`}
@@ -1003,10 +1003,10 @@ export default function Home({ publications }) {
 
                   </div>
                 }
-              />
+              /> */}
 
               {/* Project Five */}
-              <FeaturedProjectCard
+              {/* <FeaturedProjectCard
                 title={"Storyteller"}
                 status={"Live"}
                 description={`Empower Your Agency's Creativity with Data-Driven Insights`}
@@ -1085,10 +1085,10 @@ export default function Home({ publications }) {
 
                   </div>
                 }
-              />
+              /> */}
 
               {/* Project Six */}
-              <FeaturedProjectCard
+              {/* <FeaturedProjectCard
                 title={"SourceBae"}
                 status={"Live"}
                 description={`Build Your Remote Tech Team Within Just 24 Hours.`}
@@ -1167,10 +1167,10 @@ export default function Home({ publications }) {
 
                   </div>
                 }
-              />
+              /> */}
 
               {/* Project Seven */}
-              <FeaturedProjectCard
+              {/* <FeaturedProjectCard
                 title={"PayuBuzz"}
                 status={"Launched (Internal Use)"}
                 description={`Intranet Portal developed in SharePoint SPFx for Payu India`}
@@ -1218,7 +1218,7 @@ export default function Home({ publications }) {
 
                   </>
                 }
-              />
+              /> */}
             </div>
 
             {/* Other Projects header */}
@@ -1265,7 +1265,7 @@ export default function Home({ publications }) {
                 <span className="inline-block w-1 h-1 ml-1 bg-indigo-500 rounded-full"></span>
               </div>
             </div>
-            <div className="items-start -mx-3 md:flex">
+            {/* <div className="items-start -mx-3 md:flex">
               <div className="px-3 md:w-1/3">
                 <div className="w-full p-5 mx-auto mb-6 font-light text-gray-800 bg-white border border-gray-200 rounded-lg">
                   <div className="flex items-center w-full mb-4">
@@ -1353,7 +1353,7 @@ export default function Home({ publications }) {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </section>
 
 
