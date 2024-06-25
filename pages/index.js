@@ -330,7 +330,7 @@ export default function Home({ publications }) {
                 </li>
                 <li className="z-40 block py-2 mt-6 list-none lg:inline-block">
                   <a
-                    href={`mailto:mratulbhatt97@gmail.com`}
+                    href={`mailto:rohit.singh.rr6@gmail.com`}
                     className="text-lg btn-brand btn-lg group"
                   >
                     Get in touch
@@ -438,7 +438,7 @@ export default function Home({ publications }) {
                 </li>
                 <li className="z-50 hidden ml-5 list-none lg:inline-block">
                   <a
-                    href={`mailto:danielcranney@gmail.com`}
+                    href={`mailto:rohit.singh.rr6@gmail.com`}
                     className="btn-brand btn-md group"
                   >
                     Hire me
@@ -1379,10 +1379,10 @@ export default function Home({ publications }) {
                 <p className="text-lg">
                   Email me at{" "}
                   <Link
-                    href="mailto:mratulbhatt97@gmail.com"
+                    href="mailto:rohit.singh.rr6@gmail.com"
                     className="underline-link"
                   >
-                    mratulbhatt97@gmail.com
+                    rohit.singh.rr6@gmail.com
                   </Link>{" "}
                   and let&apos;s talk about your project!
                 </p>

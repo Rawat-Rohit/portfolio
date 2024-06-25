@@ -4,7 +4,7 @@ const LinkedInProfile = ({ marginBottom }) => {
   return (
     <div className={`w-8 h-8 ${marginBottom}`}>
       <a
-        href="https://www.linkedin.com/in/mratulbhatt/"
+        href="https://www.linkedin.com/in/rohit-singh-rawat-150ba9140/"
         target="_blank"
         rel="noreferrer"
       >
