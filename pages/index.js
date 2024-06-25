@@ -542,28 +542,26 @@ export default function Home({ publications }) {
               <div className="flex flex-col-reverse items-start w-full md:flex-row">
                 <div className="flex flex-col w-full md:pr-8 md:w-3/5">
                   <p className="text-lg">
-                    Hi! I&apos;m Atul and I&apos;m a frontend developer from
+                    Hi! I&apos;m Rohit and I&apos;m a frontend developer from
                     Uttarakhand, India.
                   </p>
                   <p className="text-lg">
-                    After I got my first computer at the age of 14, I knew I
-                    wanted to work with computers and technology, and I&apos;ve
-                    never looked back.
+                    It was always fascinating to me how computers worked and as time passed my interest only grew in them. Having chosen CS in my +12
+                    introduced me to exciting world of programming and since then I&apos;ve been coding.
                   </p>
                   <p className="text-lg">
                     After graduating University with a Masters Degree in Computers Application,
-                    I worked for a startup for about 2 years in which I started freelancing part-time,
-                    until I decided to go full-time.
+                    I worked for a startup for about 2.5 years after which I started freelancing.
                   </p>
                   <p>
-                    I have worked with teams, and I have also worked as a solo developer. I have experience in
-                    building web apps from scratch, and also in maintaining and updating existing projects.
+                    I have worked with teams as well as a solo developer. I have experience in
+                    building mobile applications, web apps and also in maintaining and updating existing projects.
                   </p>
-                  <p className="text-lg">
+                  {/* <p className="text-lg">
                     In recent years, I&apos;ve been focused on programming,
                     building a solid frontend stack and creating exciting
                     projects that solve real-world problems.
-                  </p>
+                  </p> */}
 
                   <p className="text-lg">
                     Take a look at my work below to see what I&apos;m working
@@ -572,7 +570,7 @@ export default function Home({ publications }) {
                 </div>
                 <div className="flex w-full h-full mb-4 md:pl-8 md:w-2/5 md:mb-0">
                   <Image
-                    src="/headshot-2024.jpg"
+                    src="/headshot_1.jpg"
                     className="overflow-hidden rounded-md"
                     width={880}
                     height={880}
@@ -692,7 +690,7 @@ export default function Home({ publications }) {
 
 
               {/* Sass */}
-              <Icon
+              {/* <Icon
                 IconType={Sass}
                 title="Sass"
                 width={"w-16"}
@@ -705,10 +703,10 @@ export default function Home({ publications }) {
                 marginRight={"mr-0"}
                 textTransform={"normal-case"}
                 fixedHeight={"h-28"}
-              />
+              /> */}
 
               {/* Bootstrap */}
-              <Icon
+              {/* <Icon
                 IconType={Bootstrap}
                 title="Bootstrap"
                 width={"w-16"}
@@ -721,10 +719,10 @@ export default function Home({ publications }) {
                 marginRight={"mr-0"}
                 textTransform={"normal-case"}
                 fixedHeight={"h-28"}
-              />
+              /> */}
 
               {/* Adobe XD */}
-              <Icon
+              {/* <Icon
                 IconType={AdobeXd}
                 title="Adobe XD"
                 width={"w-16"}
@@ -737,7 +735,7 @@ export default function Home({ publications }) {
                 marginRight={"mr-0"}
                 textTransform={"normal-case"}
                 fixedHeight={"h-28"}
-              />
+              /> */}
 
               {/* Adobe XD */}
               <Icon
