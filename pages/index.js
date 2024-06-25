@@ -218,10 +218,10 @@ export default function Home({ publications }) {
           }`}
       >
         <Head>
-          <title>Rohit Singh Rawats | Frontend Engineer</title>
+          <title>Rohit Singh Rawat | Frontend Engineer</title>
           <meta
             name="description"
-            content="The portfolio of freelance frontend developer, Rohit Singh Rawats"
+            content="The portfolio of freelance frontend developer, Rohit Singh Rawat"
           />
           <link rel="icon" href="/favicon.ico" />
         </Head>
@@ -356,7 +356,7 @@ export default function Home({ publications }) {
             {/* Text */}
             <div className="flex items-center ml-4">
               <p className="mb-0 text-lg font-semibold tracking-tight transition-all duration-150 ease-in-out font-display dark:text-white text-darker">
-                Rohit Singh Rawats
+                Rohit Singh Rawat
               </p>
             </div>
             {/* Nav */}
@@ -499,19 +499,18 @@ export default function Home({ publications }) {
                 </span> */}
 
                 <h1 className="mb-2 text-5xl md:text-7xl dark:text-white text-dark">
-                  Rohit Singh Rawats
+                  Rohit Singh Rawat
                 </h1>
                 <h2 className="mb-4 text-3xl md:text-4xl dark:text-light text-mid">
                   <ReactTypingEffect
+                  staticText="React"
                     typingDelay={200}
                     speed={30}
                     eraseSpeed={30}
                     eraseDelay={1500}
                     text={[
-                      "Developer",
-                      "Technical Blogger",
-                      "Open Source Contributor",
-                      "Poet/Writer",
+                      "Native",
+                      "JS"
                     ]}
                   />
                 </h2>
@@ -577,7 +576,7 @@ export default function Home({ publications }) {
                     className="overflow-hidden rounded-md"
                     width={880}
                     height={880}
-                    alt={"Rohit Singh Rawats headshot"}
+                    alt={"Rohit Singh Rawat headshot"}
                   />
                 </div>
               </div>
