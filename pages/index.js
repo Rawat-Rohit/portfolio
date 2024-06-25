@@ -503,7 +503,7 @@ export default function Home({ publications }) {
                 </h1>
                 <h2 className="mb-4 text-3xl md:text-4xl dark:text-light text-mid">
                   <ReactTypingEffect
-                  staticText="React"
+                    staticText="React"
                     typingDelay={200}
                     speed={30}
                     eraseSpeed={30}
@@ -515,7 +515,7 @@ export default function Home({ publications }) {
                   />
                 </h2>
                 <p className="w-4/5 text-xl md:w-full">
-                  I design and build websites that look good, and work well.
+                  I create visually appealing and functional mobile applications and websites.
                 </p>
                 <button
                   className="mt-4 btn-brand btn-lg group"
