@@ -218,10 +218,10 @@ export default function Home({ publications }) {
           }`}
       >
         <Head>
-          <title>Atul Bhatt | Frontend Engineer</title>
+          <title>Rohit Singh Rawats | Frontend Engineer</title>
           <meta
             name="description"
-            content="The portfolio of freelance frontend developer, Atul Bhatt"
+            content="The portfolio of freelance frontend developer, Rohit Singh Rawats"
           />
           <link rel="icon" href="/favicon.ico" />
         </Head>
@@ -356,7 +356,7 @@ export default function Home({ publications }) {
             {/* Text */}
             <div className="flex items-center ml-4">
               <p className="mb-0 text-lg font-semibold tracking-tight transition-all duration-150 ease-in-out font-display dark:text-white text-darker">
-                Atul Bhatt
+                Rohit Singh Rawats
               </p>
             </div>
             {/* Nav */}
@@ -499,7 +499,7 @@ export default function Home({ publications }) {
                 </span> */}
 
                 <h1 className="mb-2 text-5xl md:text-7xl dark:text-white text-dark">
-                  Atul Bhatt
+                  Rohit Singh Rawats
                 </h1>
                 <h2 className="mb-4 text-3xl md:text-4xl dark:text-light text-mid">
                   <ReactTypingEffect
@@ -577,7 +577,7 @@ export default function Home({ publications }) {
                     className="overflow-hidden rounded-md"
                     width={880}
                     height={880}
-                    alt={"Atul Bhatt headshot"}
+                    alt={"Rohit Singh Rawats headshot"}
                   />
                 </div>
               </div>
